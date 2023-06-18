@@ -1,0 +1,10 @@
+button{
+    color: white;
+    background-color:  #1f2933;
+    border: 1px solid #1f2933;
+    border-radius: 5px;
+}
+.imgSize{
+    height: 400px;
+    width:400px;
+}

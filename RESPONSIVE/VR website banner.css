@@ -1,0 +1,17 @@
+body{
+    background-image: url( https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+button{
+    background-color: #323f4b;
+    color: beige;
+    border: 1px solid #323f4b;
+    border-radius: 5px;
+    margin-left: 600px;
+}
+.text-light{
+    color: beige;
+    margin-top: 300px;
+    margin-left: 600px;
+}

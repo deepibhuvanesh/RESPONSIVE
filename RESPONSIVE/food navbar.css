@@ -1,0 +1,20 @@
+/* .imgLogo{
+    height: 5rem;
+    width: 5rem;
+}
+.maxHth{
+    max-height: 200px;
+}
+.navMrgn{
+    margin-left: 45rem;
+}
+@media screen and (max-width:1000) {
+   .navMrgn{
+    margin-left: 45rem;
+   } 
+}
+@media only screen and (min-width:576) and (max-width:977) {
+    .navMrgn{
+        margin-left: 80px;
+    }
+} */
